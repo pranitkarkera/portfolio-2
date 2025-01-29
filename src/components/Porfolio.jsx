@@ -94,7 +94,7 @@ const Portfolio = () => {
           <p className="text-lg font-bold">Engineer @ LTIMindtree</p>
           <p className="text-gray-400">2021 - 2023</p>
           <p className="text-gray-500">
-            React and Next.js application development for the public sector,
+            React application development for the private sector,
             focused on accessibility, security, and digital innovation.
           </p>
         </div>
