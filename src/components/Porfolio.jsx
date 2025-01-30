@@ -21,19 +21,19 @@ const Portfolio = () => {
   const projects = [
     {
       title: "Myntra",
-      desc: "Ecommerce Website.",
-      link: "#",
+      desc: "Ecommerce Website with category filter, search box, and wishlist & cart management. Product card listing based on Men's , Women's and Kid's section.",
+      link: "https://myntra-puce-ten.vercel.app/",
       img: MyntraImage,
     },
     {
       title: "Task Manager App",
-      desc: "Create your day-to-day task.",
+      desc: "Create your day-to-day task. Add, update, delete task & with search feature. Mark completed task and keep track of your daily task.",
       link: "https://task-manager-app-ui-psi.vercel.app/",
       img: TaskManager,
     },
     {
       title: "Temp Mail (Coming Soon..)",
-      desc: "Temporary dump mail for authentication usage",
+      desc: "Temporary dump mail for OTP & mail verification usage",
       link: "#",
       img: "https://placehold.co/600x400?text=Temp+Mail",
     },
