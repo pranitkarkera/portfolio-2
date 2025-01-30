@@ -94,8 +94,8 @@ const Portfolio = () => {
           <p className="text-lg font-bold">Engineer @ LTIMindtree</p>
           <p className="text-gray-400">2021 - 2023</p>
           <p className="text-gray-500">
-            React application development for the private sector,
-            focused on accessibility, security, and digital innovation.
+            React application development for the private sector, focused on
+            accessibility, security, and digital innovation.
           </p>
         </div>
 
@@ -115,13 +115,13 @@ const Portfolio = () => {
                     href={project.link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block p-3 rounded-lg border border-1px transition w-full"
+                    className="block rounded-lg border border-gray-300 transition w-full"
                   >
                     {project.img && (
                       <img
                         src={project.img}
                         alt={project.title}
-                        className="w-full h-40 object-cover rounded-md mb-1" 
+                        className="w-full h-40 object-cover rounded-md mb-1"
                       />
                     )}
                     <h3 className="text-md font-semibold text-center">
@@ -163,7 +163,22 @@ const Portfolio = () => {
         {/* Blog */}
         <div className="text-center md:text-left">
           <h2 className="text-lg font-semibold">Blog</h2>
-          <p className="text-gray-400">Coming Soon..</p>
+          <ul className="list-disc px-4">
+            <li>
+              <a href="https://dev.to/pranit_karkera/map-filter-reduce-javascript-array-method-2khj">
+                <p className="text-gray-400 hover:underline">
+                  Map(), Filter(), Reduce() javascript array method
+                </p>
+              </a>
+            </li>
+            <li>
+              <a href="https://dev.to/pranit_karkera/cross-origin-resource-sharingcors-cors-middleware-setup-mp3">
+                <p className="text-gray-400 hover:underline">
+                  Cross-Origin Resource Sharing(CORS). CORS middleware Setup.
+                </p>
+              </a>
+            </li>
+          </ul>
         </div>
 
         {/* Socials */}
