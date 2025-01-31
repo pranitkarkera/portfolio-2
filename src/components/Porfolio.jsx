@@ -12,7 +12,7 @@ import {
 import { CiMail } from "react-icons/ci";
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 import { SiMongodb, SiRedux } from "react-icons/si";
-import Profile from "../assets/profile.jpg";
+import Profile from "../assets/profileimg.jpg";
 import { BsDot } from "react-icons/bs";
 
 const Portfolio = () => {
