@@ -135,9 +135,9 @@ const Portfolio = () => {
                       <BsDot />
                     </span> */}
                     <div className="absolute top-2 right-2 flex gap-2">
-                      <a href={project.loom}>
+                      {/* <a href={project.loom}>
                         <FaVideo className="text-xl cursor-pointer" />
-                      </a>
+                      </a> */}
                       <a href={project.github}>
                         <FaGithub className="text-xl cursor-pointer" />
                       </a>
