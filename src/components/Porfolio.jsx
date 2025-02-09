@@ -101,11 +101,20 @@ const Portfolio = () => {
           <p className="text-lg font-bold">Engineer @ LTIMindtree</p>
           <p className="text-gray-400">2021 - 2023</p>
           <p className="text-gray-500">
-            React application development for the private sector, focused on
-            accessibility, security, and digital innovation.
+            Provide 24/7 support for cloud infrastructure, ensuring high
+            availability and performance of services across AWS environments.
+          </p>
+          <p className="text-gray-500">
+            Troubleshoot and resolve complex issues related to cloud services,
+            networking, and server performance, achieving a 65% reduction in
+            incident response time.
+          </p>
+          <p className="text-gray-500">
+            Collaborate with development teams to design and implement CI/CD
+            pipelines, enhancing deployment efficiency and reducing
+            time-to-market for applications.
           </p>
         </div>
-
 
         {/* Recent Projects */}
         <div className="rounded-lg w-full overflow-hidden">
@@ -230,7 +239,7 @@ const Portfolio = () => {
               skilled, and ready to contribute, I'm here to help bring your
               ideas to life!
             </p>
-            <a href="https://drive.google.com/file/d/1BiTt5sVsTZRUVmcUQvEEbbpm-uW6mrLJ/view?usp=drive_link">
+            <a href="https://drive.google.com/file/d/167b1A7ufShl91rPb26REax22EQeZ26hi/view?usp=sharing">
               <button className="rounded-full border px-2 py-1 border-gray-200 text-gray-600 mt-2">
                 Pranit_Karkera_CV
               </button>
