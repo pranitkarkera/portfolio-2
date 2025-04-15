@@ -30,9 +30,17 @@ const Portfolio = () => {
     },
     {
       title: "Task Manager App",
-      desc: "Create your day-to-day task. Add, update, delete task & with search feature. Mark completed task and keep track of your daily task.",
-      link: "https://task-manager-app-ui-psi.vercel.app/",
-      github: "https://github.com/pranitkarkera/Task-Manager-App",
+      desc: "Create your day-to-day task. Add, update, delete task & with search feature. Mark completed task and keep track of your daily task. With JWT Token Authentication.",
+      link: "https://playtplus-taskmanager-frontend.vercel.app/login",
+      github: "https://github.com/pranitkarkera/playtplus-taskmanager-app",
+      loom: "#",
+      live: "Yes",
+    },
+    {
+      title: "Trello-Clone",
+      desc: "Create your own workspace. Add, update, delete list & nested tasks. Drag and drop functionality within list & task.",
+      link: "https://trello-clone--gilt.vercel.app/",
+      github: "https://github.com/pranitkarkera/Trello-Clone",
       loom: "#",
       live: "Yes",
     },
@@ -239,7 +247,7 @@ const Portfolio = () => {
               skilled, and ready to contribute, I'm here to help bring your
               ideas to life!
             </p>
-            <a href="https://drive.google.com/file/d/167b1A7ufShl91rPb26REax22EQeZ26hi/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1UOBdGSYZe5rhRHcoTgy3L99P2pX8rI-1/view?usp=drive_link">
               <button className="rounded-full border px-2 py-1 border-gray-200 text-gray-600 mt-2">
                 Pranit_Karkera_CV
               </button>
